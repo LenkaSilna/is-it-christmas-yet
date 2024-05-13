@@ -1,6 +1,6 @@
 'use strict';
 //tady jsou vanoce
-const vanoce = dayjs('2023-12-24');
+const vanoce = dayjs('2024-12-24');
 //tady je dnešek
 const dnes = dayjs();
 
